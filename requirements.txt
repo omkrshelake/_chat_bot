@@ -1,0 +1,10 @@
+streamlit
+pandas
+torch
+transformers
+scikit-learn
+PyPDF2
+python-docx
+langchain
+langchain-openai
+openai

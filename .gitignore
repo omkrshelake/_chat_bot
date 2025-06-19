@@ -1,0 +1,17 @@
+# Virtual environment
+myenv/
+env/
+venv/
+
+# Large or temporary data
+temp/
+*.csv
+
+# Compiled files
+*.dll
+*.lib
+*.pyd
+
+# Python junk
+__pycache__/
+*.py[cod]
