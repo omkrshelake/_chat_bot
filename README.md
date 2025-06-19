@@ -10,8 +10,8 @@ A Streamlit-based Question Answering (QA) system that supports:
 
 ##  Supported File Types
 
-- `.csv` (TF-IDF)
-- `.pdf`, `.docx`, `.txt` (Embeddings)
+- `.csv` `.pdf`, `.docx`, `.txt`  (TF-IDF)
+- 
 
 ---
 
@@ -19,8 +19,6 @@ A Streamlit-based Question Answering (QA) system that supports:
 
 - Intelligent QA from **your own documents**
 - Automatic detection of file type
-- Uses **transformers** and **sentence-transformers** under the hood
-- Embedding model: `all-MiniLM-L6-v2`
 - Built with **Streamlit** for instant deployment
 
 ---
